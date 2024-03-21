@@ -69,8 +69,6 @@ public class Student {
 			System.out.println("Grade: " + grade);
 		}
 		
-//		per=(int)(marks/500*100);
-//		System.out.println("Percentage: " + per);
 		
 	}
 
